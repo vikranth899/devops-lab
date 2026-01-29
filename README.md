@@ -15,4 +15,4 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 ## TeamCity Pipeline Test
-This change will trigger an automatic build!
+"Testing the fix for Maven version!"
